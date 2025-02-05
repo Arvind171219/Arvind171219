@@ -37,47 +37,13 @@ I am a passionate **Java Backend Developer** with over 2 years of experience in 
 ---
 
 ### 💻 Projects  
-
 #### 1. **BookMyShow Backend**  
-A **Spring Boot-based web application** for movie ticket booking, designed to provide a seamless experience for users and admins.  
-
-**Key Features**:  
-- **User Functionalities**:  
-  - Search for movies and theaters by name, genre, or location.  
-  - Book tickets for available shows.  
-  - View booking history for past and upcoming shows.  
-  - Select and book seats based on real-time availability.  
-
-- **Admin Functionalities**:  
-  - Add, update, or delete movies, theaters, and showtimes.  
-  - Manage seat availability and pricing for different shows.  
-  - View and manage user bookings.  
-
-- **Booking Process**:  
-  - Users select a movie, theater, and showtime.  
-  - Real-time seat availability is displayed, and selected seats are highlighted.  
-  - Confirmation emails are sent to users upon successful booking.  
-
-- **Tech Stack**:  
-  - **Backend**: Spring Boot, Maven  
-  - **Database**: MySQL  
-  - **ORM**: JPA Hibernate  
-  - **API Testing**: Swagger UI  
-  - **Email Notifications**: JavaMailSender  
-
-- **Impact**:  
-  - Scalable and efficient backend system capable of handling high traffic.  
-  - Provides a hassle-free experience for users and admins.  
-
----
+- Built a scalable backend for a movie ticket booking system using **Spring Boot**, **Hibernate**, and **MySQL**.  
+- Features: User authentication, seat booking, and email notifications.  
 
 #### 2. **Student Result Management System**  
-A **GUI-based application** for managing student results, enabling admins to store and manage student details and results, while students can easily check their results.  
-
-**Key Features**:  
-- Admin can add/list student details and results.  
-- Students can search and view their results.  
-- **Tech Stack**: Java, MySQL.  
+- Developed a GUI-based application for managing student results with **MySQL** integration.  
+- Features: Admin panel for managing student details and results, and student portal for result viewing.  
 
 ---
 
